@@ -147,7 +147,7 @@
 
 /* For background image */
 .app-container {
-  background-image: url('C:\Users\subhg\OneDrive\Documents\website1\webpagebg1.jpg');  /* Replace with your image path */
+  background-image: url('/webpagebg1.jpg');  /* Replace with your image path */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
