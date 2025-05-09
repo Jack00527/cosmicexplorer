@@ -3,7 +3,7 @@
   min-height: 100vh;
   width: 100%;
   position: relative;
-  background-image: url('/webpagebg1.jpg');
+  background-image: url('../public/webpagebg1.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -147,7 +147,7 @@
 
 /* For background image */
 .app-container {
-  background-image: url('/webpagebg1.jpg');  /* Replace with your image path */
+  background-image: url('../public/webpagebg1.jpg');  /* Replace with your image path */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
